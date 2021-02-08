@@ -4,8 +4,8 @@ Hello you!
 Welcome to my profile!
 
 ---
-- 🔭 I’m currently working on BetteAC, an anticheat for PocketMine-MP which also includes anti - Xray
-- 🌱 I’m currently learning Java based android development
+- 🔭 I’m currently working on phpcord, a new Discord Library written in PHP!
+- 🌱 I’m currently learning lots of stuff around networking
 - 💬 Ask me your questions, if you really want to know something
 - 📫 How to reach me: Via Discord or E-Mail! Check informations below
 
